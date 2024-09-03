@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uASKfoIT
-I am a student graduating in december 2024. I got interested in computer science by playing my first ever video game called Call of Duty Black Ops. It was amazing to know that someone or something was able to create a game
+I am a grad 2024. I got interested in computer science by playing my first ever video game called Call of Duty Black Ops. It was amazing to know that someone or something was able to create a game
 where it felt that you were in a different world.
 I hope to achieve the same with my career. While I am still a noob in programming compared to the other amazing programmers.
 My goal is that one day, I will too create something that people will enjoy. When I mean by something that people will enjoy, I mean create something
